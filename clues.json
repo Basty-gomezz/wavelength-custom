@@ -1,52 +1,108 @@
 [
-    ["Worst blockmate", "Best blockmate"],
-    ["Toxic groupmate", "Ideal groupmate"],
-    ["Freeloader thesis mate", "Reliable thesis mate"],
-    ["Ghoster orgmate", "Responsive orgmate"],
-    ["Crammer classmate", "Prepared classmate"],
-    ["Worst prof terror", "Best prof inspiring"],
-    ["Boring lecture", "Engaging lecture"],
+    ["Worst blockmate",
+    "Best blockmate"],
+    
+    ["Toxic groupmate",
+    "Ideal groupmate"],
+    
+    ["Freeloader thesis mate",
+    "Reliable thesis mate"],
+    
+    ["Ghoster orgmate",
+    "Responsive orgmate"],
+    
+    ["Crammer classmate",
+    "Prepared classmate"],
+    
+    ["Worst prof terror",
+    "Best prof inspiring"],
+    
+    ["Boring lecture",
+    "Engaging lecture"],
+    
     ["Empty attendance class", "Worth-it attendance class"],
+    
     ["Late enrollee chaos", "Smooth enlistment"],
+    
     ["AISIS crash", "AISIS miracle slot"],
+    
     ["No slot in majors", "Perfect schedule"],
+    
     ["7:30 AM class struggle", "11:30 AM class blessing"],
+    
     ["Heavy finals week", "Manageable finals week"],
+    
     ["Unreadable readings", "Actually useful readings"],
+    
     ["All-nighter before exam", "Chill review before exam"],
+    
     ["Low quiz score", "Perfect quiz score"],
+    
     ["Group chat silent", "Group chat active"],
+    
     ["Seen-zoned message", "Instant reply"],
+    
     ["Org burnout", "Org fulfillment"],
+    
     ["Org clout chaser", "Org genuine leader"],
+    
     ["Worst Ateneo cheer", "Best Ateneo cheer"],
+    
     ["Awkward UAAP game", "Hype UAAP game"],
+    
     ["Empty bleachers", "Full Blue Eagle crowd"],
+    
     ["Rainy Katip commute", "Smooth Katip commute"],
+    
     ["Traffic to campus", "Clear Katip traffic"],
+    
     ["Overpriced Katip food", "Sulit Katip food"],
+    
     ["Worst food in Katip", "Best food in Katip"],
+    
     ["Long JSEC line", "No JSEC line"],
+    
     ["No seats in Gonzaga", "Perfect Gonzaga spot"],
+    
     ["Library full", "Library quiet corner"],
+    
     ["No WiFi signal", "Strong WiFi signal"],
+    
     ["Dead phone on campus", "Fully charged phone"],
+    
     ["Forgot ID", "Never forget ID"],
+    
     ["Cut class guilt", "Perfect attendance streak"],
+    
     ["Missed deadline", "Early submission"],
+    
     ["Unread Canvas notif", "On-top-of-everything student"],
+    
     ["Panic recitation", "Confident recitation"],
+    
     ["Awkward class silence", "Great class discussion"],
+    
     ["Bad reporting group", "Smooth reporting group"],
+    
     ["Unclear prof instructions", "Crystal clear syllabus"],
+    
     ["Lost in campus", "Campus master navigator"],
+    
     ["First day anxiety", "First day excitement"],
+    
     ["No friends in class", "Instant college barkada"],
+    
     ["Worst friend in college", "Best friend in college"],
+    
     ["Situationship drama", "Healthy relationship"],
+    
     ["Org rejection", "Org acceptance"],
+    
     ["Internship rejection", "Internship offer"],
+    
     ["Burnout sem", "Balanced sem"],
+    
     ["Identity crisis in college", "Clear life direction"],
+    
     ["Just surviving college", "Thriving in Ateneo"]
 ]
