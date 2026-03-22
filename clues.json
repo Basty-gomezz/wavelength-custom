@@ -20,89 +20,132 @@
     ["Boring lecture",
     "Engaging lecture"],
     
-    ["Empty attendance class", "Worth-it attendance class"],
+    ["Empty attendance class",
+    "Worth-it attendance class"],
     
-    ["Late enrollee chaos", "Smooth enlistment"],
+    ["Late enrollee chaos",
+    "Smooth enlistment"],
     
-    ["AISIS crash", "AISIS miracle slot"],
+    ["AISIS crash",
+    "AISIS miracle slot"],
     
-    ["No slot in majors", "Perfect schedule"],
+    ["No slot in majors",
+    "Perfect schedule"],
     
-    ["7:30 AM class struggle", "11:30 AM class blessing"],
+    ["7:30 AM class struggle",
+    "11:30 AM class blessing"],
     
-    ["Heavy finals week", "Manageable finals week"],
+    ["Heavy finals week",
+    "Manageable finals week"],
     
-    ["Unreadable readings", "Actually useful readings"],
+    ["Unreadable readings",
+    "Actually useful readings"],
     
-    ["All-nighter before exam", "Chill review before exam"],
+    ["All-nighter before exam",
+    "Chill review before exam"],
     
-    ["Low quiz score", "Perfect quiz score"],
+    ["Low quiz score",
+    "Perfect quiz score"],
     
-    ["Group chat silent", "Group chat active"],
+    ["Group chat silent",
+    "Group chat active"],
     
-    ["Seen-zoned message", "Instant reply"],
+    ["Seen-zoned message",
+    "Instant reply"],
     
-    ["Org burnout", "Org fulfillment"],
+    ["Org burnout",
+    "Org fulfillment"],
     
-    ["Org clout chaser", "Org genuine leader"],
+    ["Org clout chaser",
+    "Org genuine leader"],
     
-    ["Worst Ateneo cheer", "Best Ateneo cheer"],
+    ["Worst Ateneo cheer",
+    "Best Ateneo cheer"],
     
-    ["Awkward UAAP game", "Hype UAAP game"],
+    ["Awkward UAAP game",
+    "Hype UAAP game"],
     
-    ["Empty bleachers", "Full Blue Eagle crowd"],
+    ["Empty bleachers",
+    "Full Blue Eagle crowd"],
     
-    ["Rainy Katip commute", "Smooth Katip commute"],
+    ["Rainy Katip commute",
+    "Smooth Katip commute"],
     
-    ["Traffic to campus", "Clear Katip traffic"],
+    ["Traffic to campus",
+    "Clear Katip traffic"],
     
-    ["Overpriced Katip food", "Sulit Katip food"],
+    ["Overpriced Katip food",
+    "Sulit Katip food"],
     
-    ["Worst food in Katip", "Best food in Katip"],
+    ["Worst food in Katip",
+    "Best food in Katip"],
     
-    ["Long JSEC line", "No JSEC line"],
+    ["Long JSEC line",
+    "No JSEC line"],
     
-    ["No seats in Gonzaga", "Perfect Gonzaga spot"],
+    ["No seats in Gonzaga",
+    "Perfect Gonzaga spot"],
     
-    ["Library full", "Library quiet corner"],
+    ["Library full",
+    "Library quiet corner"],
     
-    ["No WiFi signal", "Strong WiFi signal"],
+    ["No WiFi signal",
+    "Strong WiFi signal"],
     
-    ["Dead phone on campus", "Fully charged phone"],
+    ["Dead phone on campus",
+    "Fully charged phone"],
     
-    ["Forgot ID", "Never forget ID"],
+    ["Forgot ID",
+    "Never forget ID"],
     
-    ["Cut class guilt", "Perfect attendance streak"],
+    ["Cut class guilt",
+    "Perfect attendance streak"],
     
-    ["Missed deadline", "Early submission"],
+    ["Missed deadline",
+    "Early submission"],
     
-    ["Unread Canvas notif", "On-top-of-everything student"],
+    ["Unread Canvas notif",
+    "On-top-of-everything student"],
     
-    ["Panic recitation", "Confident recitation"],
+    ["Panic recitation",
+    "Confident recitation"],
     
-    ["Awkward class silence", "Great class discussion"],
+    ["Awkward class silence",
+    "Great class discussion"],
     
-    ["Bad reporting group", "Smooth reporting group"],
+    ["Bad reporting group",
+    "Smooth reporting group"],
     
-    ["Unclear prof instructions", "Crystal clear syllabus"],
+    ["Unclear prof instructions",
+    "Crystal clear syllabus"],
     
-    ["Lost in campus", "Campus master navigator"],
+    ["Lost in campus",
+    "Campus master navigator"],
     
-    ["First day anxiety", "First day excitement"],
+    ["First day anxiety",
+    "First day excitement"],
     
-    ["No friends in class", "Instant college barkada"],
+    ["No friends in class",
+    "Instant college barkada"],
     
-    ["Worst friend in college", "Best friend in college"],
+    ["Worst friend in college",
+    "Best friend in college"],
     
-    ["Situationship drama", "Healthy relationship"],
+    ["Situationship drama",
+    "Healthy relationship"],
     
-    ["Org rejection", "Org acceptance"],
+    ["Org rejection",
+    "Org acceptance"],
     
-    ["Internship rejection", "Internship offer"],
+    ["Internship rejection",
+    "Internship offer"],
     
-    ["Burnout sem", "Balanced sem"],
+    ["Burnout sem",
+    "Balanced sem"],
     
-    ["Identity crisis in college", "Clear life direction"],
+    ["Identity crisis in college",
+    "Clear life direction"],
     
-    ["Just surviving college", "Thriving in Ateneo"]
+    ["Just surviving college",
+    "Thriving in Ateneo"]
 ]
